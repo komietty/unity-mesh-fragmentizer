@@ -3,7 +3,3 @@ Unity base runtime/editor mesh de-indexing library. Ordinary imported models(.fb
 This library offers polygon detaching method in runtime or editor-time. Either way it work with model animations.
 
 <img src="output.gif" width=50%><img src="output.png" width=50%>
-
-## License
-[MIT](LICENSE)
-
